@@ -114,6 +114,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['LHJLFRHMD'] => '联合奖励法人红名单',
         IResourceCatalog::TYPE['XYSFSQ'] => '信用示范（商圈、街区）',
         IResourceCatalog::TYPE['TEST'] => '演示资源目录',
+        IResourceCatalog::TYPE['C_AJASRMD'] => '纳税信用A级纳税人名单共管信息',
+        IResourceCatalog::TYPE['C_AJNSR'] => '网站守信_A级纳税人信息',
+        IResourceCatalog::TYPE['C_SXBZXJG'] => '失信被执行机构信息',
+        IResourceCatalog::TYPE['P_VWEB_PERSON'] => '个人信息',
         //@position
     );
 }

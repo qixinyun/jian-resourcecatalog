@@ -114,6 +114,10 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['LHJLFRHMD'] => 'lhjlfrhmd',
         IResourceCatalog::TYPE['XYSFSQ'] => 'xysfsq',
         IResourceCatalog::TYPE['TEST'] => 'test',
+        IResourceCatalog::TYPE['C_AJASRMD'] => 'c_ajasrmd',
+        IResourceCatalog::TYPE['C_AJNSR'] => 'c_ajnsr',
+        IResourceCatalog::TYPE['C_SXBZXJG'] => 'c_sxbzxjg',
+        IResourceCatalog::TYPE['P_VWEB_PERSON'] => 'p_vweb_person',
         //@position
     );
 }
