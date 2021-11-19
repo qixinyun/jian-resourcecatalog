@@ -117,7 +117,15 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'C_AJNSR'=>110,
         'C_SXBZXJG'=>111,
         'P_VWEB_PERSON'=>112,
-        //@position_type_113
+        'C_JYZCX'=>113,
+        'C_NYLYJL'=>114,
+        'C_SBHQJT'=>115,
+        'DDMFSBHR'=>116,
+        'NYLYGRJLXX'=>117,
+        'P_JGJGBB'=>118,
+        'P_SXBZXR'=>119,
+        'P_YXSBHQS'=>120,
+        //@position_type_121
         'TEST' => 500,
     );
 
@@ -177,7 +185,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['HXLDGXXX'],
         ),
         IUserGroup::ID['SHBJ'] => array(),
-        IUserGroup::ID['SFY'] => array(
+        IUserGroup::ID['SFY'] => array(self::TYPE['P_SXBZXR'],
             self::TYPE['C_SXBZXJG'],
             self::TYPE['SXBZXRXX'],
         ),
@@ -216,7 +224,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['QSWCXXXJDWBZ'],
         ),
         IUserGroup::ID['SJRB'] => array(),
-        IUserGroup::ID['SNMJ'] => array(),
+        IUserGroup::ID['SNMJ'] => array(self::TYPE['NYLYGRJLXX'],self::TYPE['C_NYLYJL'],self::TYPE['C_JYZCX'],),
         IUserGroup::ID['SZWFWJ'] => array(),
         IUserGroup::ID['STJJ'] => array(
             self::TYPE['DTJXJGRXX'],
@@ -258,7 +266,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['ZZQYZYBGCMD'],
         ),
         IUserGroup::ID['SZGH'] => array(),
-        IUserGroup::ID['SWMB'] => array(),
+        IUserGroup::ID['SWMB'] => array(self::TYPE['DDMFSBHR'],),
         IUserGroup::ID['SCZJ'] => array(
             self::TYPE['ZFCGDLJGXX'],
         ),
@@ -270,6 +278,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['SGZW'] => array(
             self::TYPE['QYRYXX'],
         ),
+IUserGroup::ID['SFL'] => array(self::TYPE['P_YXSBHQS'],self::TYPE['P_JGJGBB'],self::TYPE['C_SBHQJT']),
         //@position_usergroup
     );
 

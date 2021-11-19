@@ -118,6 +118,14 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['C_AJNSR'] => '网站守信_A级纳税人信息',
         IResourceCatalog::TYPE['C_SXBZXJG'] => '失信被执行机构信息',
         IResourceCatalog::TYPE['P_VWEB_PERSON'] => '个人信息',
+        IResourceCatalog::TYPE['C_JYZCX'] => '经营者诚信信息',
+        IResourceCatalog::TYPE['C_NYLYJL'] => '农业领域奖励信息',
+        IResourceCatalog::TYPE['C_SBHQJT'] => '获得“三八红旗集体”荣誉称号信息',
+        IResourceCatalog::TYPE['DDMFSBHR'] => '道德模范与身边好人信息',
+        IResourceCatalog::TYPE['NYLYGRJLXX'] => '农业领域个人奖励信息',
+        IResourceCatalog::TYPE['P_JGJGBB'] => '获得“巾帼建功标兵”荣誉称号信息',
+        IResourceCatalog::TYPE['P_SXBZXR'] => '失信被执行自然人信息',
+        IResourceCatalog::TYPE['P_YXSBHQS'] => '获得“三八红旗手”荣誉称号信息',
         //@position
     );
 }

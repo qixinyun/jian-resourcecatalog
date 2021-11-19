@@ -118,6 +118,14 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['C_AJNSR'] => 'c_ajnsr',
         IResourceCatalog::TYPE['C_SXBZXJG'] => 'c_sxbzxjg',
         IResourceCatalog::TYPE['P_VWEB_PERSON'] => 'p_vweb_person',
+        IResourceCatalog::TYPE['C_JYZCX'] => 'c_jyzcx',
+        IResourceCatalog::TYPE['C_NYLYJL'] => 'c_nylyjl',
+        IResourceCatalog::TYPE['C_SBHQJT'] => 'c_sbhqjt',
+        IResourceCatalog::TYPE['DDMFSBHR'] => 'ddmfsbhr',
+        IResourceCatalog::TYPE['NYLYGRJLXX'] => 'nylygrjlxx',
+        IResourceCatalog::TYPE['P_JGJGBB'] => 'p_jgjgbb',
+        IResourceCatalog::TYPE['P_SXBZXR'] => 'p_sxbzxr',
+        IResourceCatalog::TYPE['P_YXSBHQS'] => 'p_yxsbhqs',
         //@position
     );
 }

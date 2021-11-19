@@ -40,6 +40,22 @@ interface IUserGroup extends IUserGroupIdentify
         'SZGH' => 33,
         'SJTJ' => 34,
         'SGZW' => 35,
-        'SGSL' => 36
+        'SGSL' => 36,
+        'JZQ' => 37,
+        'QYQ' => 38,
+        'QAX' => 39,
+        'YFX' => 40,
+        'WAX' => 41,
+        'XQX' => 42,
+        'JSX' => 43,
+        'THX' => 44,
+        'AFX' => 45,
+        'XJX' => 46,
+        'SCX' => 47,
+        'YXX' => 48,
+        'JGSS' => 49,
+        'JKQ' => 50,
+        'LLXQ' => 51,
+        'SFL' => 52
     );
 }
