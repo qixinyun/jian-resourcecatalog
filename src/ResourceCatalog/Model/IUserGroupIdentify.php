@@ -40,6 +40,22 @@ interface IUserGroupIdentify
         IUserGroup::ID['SZGH'] => 'SZGH',
         IUserGroup::ID['SJTJ'] => 'SJTJ',
         IUserGroup::ID['SGZW'] => 'SGZW',
-        IUserGroup::ID['SGSL'] => 'SGSL'
+        IUserGroup::ID['SGSL'] => 'SGSL',
+        IUserGroup::ID['JZQ'] => 'JZQ',
+        IUserGroup::ID['QYQ'] => 'QYQ',
+        IUserGroup::ID['QAX'] => 'QAX',
+        IUserGroup::ID['YFX'] => 'YFX',
+        IUserGroup::ID['WAX'] => 'WAX',
+        IUserGroup::ID['XQX'] => 'XQX',
+        IUserGroup::ID['JSX'] => 'JSX',
+        IUserGroup::ID['THX'] => 'THX',
+        IUserGroup::ID['AFX'] => 'AFX',
+        IUserGroup::ID['XJX'] => 'XJX',
+        IUserGroup::ID['SCX'] => 'SCX',
+        IUserGroup::ID['YXX'] => 'YXX',
+        IUserGroup::ID['JGSS'] => 'JGSS',
+        IUserGroup::ID['JKQ'] => 'JKQ',
+        IUserGroup::ID['LLXQ'] => 'LLXQ',
+        IUserGroup::ID['SFL'] => 'SFL'
     );
 }
