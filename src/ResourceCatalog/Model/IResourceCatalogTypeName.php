@@ -126,6 +126,18 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['P_JGJGBB'] => '获得“巾帼建功标兵”荣誉称号信息',
         IResourceCatalog::TYPE['P_SXBZXR'] => '失信被执行自然人信息',
         IResourceCatalog::TYPE['P_YXSBHQS'] => '获得“三八红旗手”荣誉称号信息',
+IResourceCatalog::TYPE['C_DKJBXX'] => '贷款基本信息',
+IResourceCatalog::TYPE['C_DSSWDJXX'] => '（税务）登记信息变更函',
+IResourceCatalog::TYPE['C_ZFGJJ'] => '住房公积金缴费信息',
+IResourceCatalog::TYPE['DFJFJL_INFO'] => '电费缴费记录信息',
+IResourceCatalog::TYPE['P_GJJDKXX'] => '公积金贷款信息',
+IResourceCatalog::TYPE['P_GRDBJFF_INFO'] => '个人低保金发放信息',
+IResourceCatalog::TYPE['P_SFQJXX'] => '水费欠费记录信息',
+IResourceCatalog::TYPE['P_SJYJT_XSXJXX'] => '学生学籍信息',
+IResourceCatalog::TYPE['P_VWEB_LOAN_INFO'] => '贷款信息',
+IResourceCatalog::TYPE['P_WATER_INFO'] => '水费缴费记录信息',
+IResourceCatalog::TYPE['C_ESFBA'] => '二手房备案信息',
+IResourceCatalog::TYPE['P_FDDBR'] => '法定代表人（负责人）信息',
         //@position
     );
 }

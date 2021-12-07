@@ -56,6 +56,9 @@ interface IUserGroupIdentify
         IUserGroup::ID['JGSS'] => 'JGSS',
         IUserGroup::ID['JKQ'] => 'JKQ',
         IUserGroup::ID['LLXQ'] => 'LLXQ',
-        IUserGroup::ID['SFL'] => 'SFL'
+        IUserGroup::ID['SFL'] => 'SFL',
+        IUserGroup::ID['ZFGJJ'] => 'ZFGJJ',
+        IUserGroup::ID['GDGS'] => 'GDGS',
+        IUserGroup::ID['ZLSGS'] => 'ZLSGS'
     );
 }

@@ -126,6 +126,18 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['P_JGJGBB'] => 'p_jgjgbb',
         IResourceCatalog::TYPE['P_SXBZXR'] => 'p_sxbzxr',
         IResourceCatalog::TYPE['P_YXSBHQS'] => 'p_yxsbhqs',
+IResourceCatalog::TYPE['C_DKJBXX'] => 'c_dkjbxx',
+IResourceCatalog::TYPE['C_DSSWDJXX'] => 'c_dsswdjxx',
+IResourceCatalog::TYPE['C_ZFGJJ'] => 'c_zfgjj',
+IResourceCatalog::TYPE['DFJFJL_INFO'] => 'dfjfjl_info',
+IResourceCatalog::TYPE['P_GJJDKXX'] => 'p_gjjdkxx',
+IResourceCatalog::TYPE['P_GRDBJFF_INFO'] => 'p_grdbjff_info',
+IResourceCatalog::TYPE['P_SFQJXX'] => 'p_sfqjxx',
+IResourceCatalog::TYPE['P_SJYJT_XSXJXX'] => 'p_sjyjt_xsxjxx',
+IResourceCatalog::TYPE['P_VWEB_LOAN_INFO'] => 'p_vweb_loan_info',
+IResourceCatalog::TYPE['P_WATER_INFO'] => 'p_water_info',
+IResourceCatalog::TYPE['C_ESFBA'] => 'c_esfba',
+IResourceCatalog::TYPE['P_FDDBR'] => 'p_fddbr',
         //@position
     );
 }
