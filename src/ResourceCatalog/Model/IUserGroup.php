@@ -57,8 +57,8 @@ interface IUserGroup extends IUserGroupIdentify
         'JKQ' => 50,
         'LLXQ' => 51,
         'SFL' => 52,
-        'ZFGJJ' => 53,
-        'GDGS' => 54,
-        'ZLSGS' => 55
+        'ZFGJJ' => 980,
+        'GDGS' => 981,
+        'ZLSGS' => 982
     );
 }
