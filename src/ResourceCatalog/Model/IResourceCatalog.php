@@ -268,7 +268,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['LSNDPJXX'],
             self::TYPE['LSSWSNDPJXX'],
         ),
-        IUserGroup::ID['SZJJ'] => array(self::TYPE['C_ESFBA'],self::TYPE['P_VWEB_LOAN_INFO'],
+        IUserGroup::ID['SZJJ'] => array(self::TYPE['C_ESFBA'],
             self::TYPE['P_VWEB_PERSON'],
             self::TYPE['ZLJCQYXX'],
             self::TYPE['JXMPCPXX'],
@@ -291,7 +291,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['QYRYXX'],
         ),
         IUserGroup::ID['SFL'] => array(self::TYPE['P_YXSBHQS'],self::TYPE['P_JGJGBB'],self::TYPE['C_SBHQJT']),
-        IUserGroup::ID['ZFGJJ'] => array(self::TYPE['P_GJJDKXX'],self::TYPE['C_ZFGJJ'],self::TYPE['C_DKJBXX']),
+        IUserGroup::ID['ZFGJJ'] => array(self::TYPE['P_GJJDKXX'],self::TYPE['C_ZFGJJ'],self::TYPE['C_DKJBXX'],self::TYPE['P_VWEB_LOAN_INFO']),
         IUserGroup::ID['GDGS'] => array(self::TYPE['DFJFJL_INFO']),
         IUserGroup::ID['ZLSGS'] => array(self::TYPE['P_WATER_INFO'],self::TYPE['P_SFQJXX']),
         //@position_usergroup
