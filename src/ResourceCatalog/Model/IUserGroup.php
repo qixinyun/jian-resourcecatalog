@@ -42,7 +42,6 @@ interface IUserGroup extends IUserGroupIdentify
         'SGZW' => 35,
         'SGSL' => 36,
 
-
         'JZQFGW' => 37,
         'QYQFGW' => 38,
         'QAXFGW' => 39,
