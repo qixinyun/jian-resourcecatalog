@@ -146,7 +146,7 @@ interface IUserGroup extends IUserGroupIdentify
         'XGXSLJ' => 137,
         'XGXGAJ' => 138,
         'XGXYBJ' => 139,
-        'SZRZYJ' => 140,
+        'XGXRH' => 140,
         'XGXNYNCJ' => 141,
         'XGXZRZYJ' => 142,
         'XGXZLSGS' => 143,
