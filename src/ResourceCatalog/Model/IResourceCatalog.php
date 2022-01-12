@@ -177,8 +177,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
 'P_GET_BZXZF'=>170,
 'P_HSZYZ'=>171,
 'P_TEZYRY'=>172,
-'SYBX_INFO'=>173,
-'ZYJNZS_IFNO'=>174,
         //@position_type_175
         'TEST' => 500,
     );
@@ -246,7 +244,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['FRNSXX'],
             self::TYPE['FRQSXX']
         ),
-        IUserGroup::ID['SRSJ'] => array(self::TYPE['ZYJNZS_IFNO'],self::TYPE['SYBX_INFO'],
+        IUserGroup::ID['SRSJ'] => array(
             self::TYPE['ZYJNZSXX'],
             self::TYPE['YLBXXX'],
             self::TYPE['YZTQSBXXHMD'],

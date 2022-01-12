@@ -178,8 +178,6 @@ IResourceCatalog::TYPE['P_DZDY_INFO'] => '电子导游证信息',
 IResourceCatalog::TYPE['P_GET_BZXZF'] => '获得保障性住房信息',
 IResourceCatalog::TYPE['P_HSZYZ'] => '护士执业证信息',
 IResourceCatalog::TYPE['P_TEZYRY'] => '特种作业人员操作资格证核发',
-IResourceCatalog::TYPE['SYBX_INFO'] => '失业保险信息',
-IResourceCatalog::TYPE['ZYJNZS_IFNO'] => '职业技能证书信息',
         //@position
     );
 }

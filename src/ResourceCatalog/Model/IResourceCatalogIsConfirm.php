@@ -29,7 +29,7 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['DTJXJGRXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['YXZZDWJBGXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['SLYSXKZXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
-        IResourceCatalog::TYPE['ZYJNZSXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
+        IResourceCatalog::TYPE['ZYJNZSXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['QYRYXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['SHZZNJXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['YLBXXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
@@ -45,7 +45,7 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['JXMPCPXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['JSZGXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['SJYXXS'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
-        IResourceCatalog::TYPE['SYBXXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
+        IResourceCatalog::TYPE['SYBXXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['SJJXMXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['JYJGXINXI'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['GRRYXXJYJ'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
@@ -177,8 +177,6 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['P_GET_BZXZF'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['P_HSZYZ'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['P_TEZYRY'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
-        IResourceCatalog::TYPE['SYBX_INFO'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
-        IResourceCatalog::TYPE['ZYJNZS_IFNO'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         //@position
     );

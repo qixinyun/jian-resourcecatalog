@@ -178,8 +178,6 @@ IResourceCatalog::TYPE['P_DZDY_INFO'] => 'p_dzdy_info',
 IResourceCatalog::TYPE['P_GET_BZXZF'] => 'p_get_bzxzf',
 IResourceCatalog::TYPE['P_HSZYZ'] => 'p_hszyz',
 IResourceCatalog::TYPE['P_TEZYRY'] => 'p_tezyry',
-IResourceCatalog::TYPE['SYBX_INFO'] => 'sybx_info',
-IResourceCatalog::TYPE['ZYJNZS_IFNO'] => 'zyjnzs_ifno',
         //@position
     );
 }
