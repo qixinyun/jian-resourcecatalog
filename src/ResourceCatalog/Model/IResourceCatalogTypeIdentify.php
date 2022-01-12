@@ -170,6 +170,16 @@ IResourceCatalog::TYPE['ZRRYQJFXX'] => 'ZRRYQJFXX',
 IResourceCatalog::TYPE['ZRRYQTQFXX'] => 'ZRRYQTQFXX',
 IResourceCatalog::TYPE['ZRRYSJFXX'] => 'ZRRYSJFXX',
 IResourceCatalog::TYPE['ZRRYSTQFXX'] => 'ZRRYSTQFXX',
+IResourceCatalog::TYPE['C_TJLYQYJB'] => 'C_TJLYQYJB',
+IResourceCatalog::TYPE['C_YYCL'] => 'C_YYCL',
+IResourceCatalog::TYPE['PERSON_BUS_INFO'] => 'PERSON_BUS_INFO',
+IResourceCatalog::TYPE['P_CAR_INFO'] => 'P_CAR_INFO',
+IResourceCatalog::TYPE['P_DZDY_INFO'] => 'P_DZDY_INFO',
+IResourceCatalog::TYPE['P_GET_BZXZF'] => 'P_GET_BZXZF',
+IResourceCatalog::TYPE['P_HSZYZ'] => 'P_HSZYZ',
+IResourceCatalog::TYPE['P_TEZYRY'] => 'P_TEZYRY',
+IResourceCatalog::TYPE['SYBX_INFO'] => 'SYBX_INFO',
+IResourceCatalog::TYPE['ZYJNZS_IFNO'] => 'ZYJNZS_IFNO',
         //@position
     );
 }

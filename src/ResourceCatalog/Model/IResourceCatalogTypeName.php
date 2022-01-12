@@ -170,6 +170,16 @@ IResourceCatalog::TYPE['ZRRYQJFXX'] => '自然人用气缴费信息',
 IResourceCatalog::TYPE['ZRRYQTQFXX'] => '自然人用气拖欠费信息',
 IResourceCatalog::TYPE['ZRRYSJFXX'] => '自然人用水缴费信息',
 IResourceCatalog::TYPE['ZRRYSTQFXX'] => '自然人用水拖欠费信息',
+IResourceCatalog::TYPE['C_TJLYQYJB'] => '统计领域企业基本信息',
+IResourceCatalog::TYPE['C_YYCL'] => '营运车辆信息（法人）',
+IResourceCatalog::TYPE['PERSON_BUS_INFO'] => '个体工商户信息',
+IResourceCatalog::TYPE['P_CAR_INFO'] => '营运车辆信息（自然人）',
+IResourceCatalog::TYPE['P_DZDY_INFO'] => '电子导游证信息',
+IResourceCatalog::TYPE['P_GET_BZXZF'] => '获得保障性住房信息',
+IResourceCatalog::TYPE['P_HSZYZ'] => '护士执业证信息',
+IResourceCatalog::TYPE['P_TEZYRY'] => '特种作业人员操作资格证核发',
+IResourceCatalog::TYPE['SYBX_INFO'] => '失业保险信息',
+IResourceCatalog::TYPE['ZYJNZS_IFNO'] => '职业技能证书信息',
         //@position
     );
 }
