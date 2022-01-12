@@ -172,7 +172,6 @@ IResourceCatalog::TYPE['ZRRYSJFXX'] => ISearchableResourceCatalogData::DOUBLE_PU
 IResourceCatalog::TYPE['ZRRYSTQFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['C_TJLYQYJB'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['C_YYCL'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-IResourceCatalog::TYPE['PERSON_BUS_INFO'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['P_CAR_INFO'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['P_DZDY_INFO'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
 IResourceCatalog::TYPE['P_GET_BZXZF'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],

@@ -171,13 +171,12 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
 'ZRRYSTQFXX'=>164,
 'C_TJLYQYJB'=>165,
 'C_YYCL'=>166,
-'PERSON_BUS_INFO'=>167,
-'P_CAR_INFO'=>168,
-'P_DZDY_INFO'=>169,
-'P_GET_BZXZF'=>170,
-'P_HSZYZ'=>171,
-'P_TEZYRY'=>172,
-        //@position_type_173
+'P_CAR_INFO'=>167,
+'P_DZDY_INFO'=>168,
+'P_GET_BZXZF'=>169,
+'P_HSZYZ'=>170,
+'P_TEZYRY'=>171,
+        //@position_type_172
         'TEST' => 500,
     );
 
@@ -207,7 +206,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['DFXBMDXX'],
             self::TYPE['FRHEIMD']
         ),
-        IUserGroup::ID['SSCJDGLJ'] => array(self::TYPE['PERSON_BUS_INFO'],
+        IUserGroup::ID['SSCJDGLJ'] => array(
             self::TYPE['P_FDDBR'],
             self::TYPE['QYJBXX'],
             self::TYPE['QYYCMLXX'],
