@@ -177,7 +177,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
 'P_GET_BZXZF'=>170,
 'P_HSZYZ'=>171,
 'P_TEZYRY'=>172,
-        //@position_type_175
+        //@position_type_173
         'TEST' => 500,
     );
 
