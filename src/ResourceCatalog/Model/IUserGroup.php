@@ -504,6 +504,7 @@ interface IUserGroup extends IUserGroupIdentify
         'QYQZRZYJ' => 967,
         'QYQYCJ' => 968,
         'QYQGXLJ' => 969,
+        'QYQMZJ' => 970,
         'QYQGXJ' => 971,
         'QYQJTJ' => 972,
         'QYQCZJ' => 973,
