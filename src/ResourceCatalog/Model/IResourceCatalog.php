@@ -1283,6 +1283,39 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['FRTQGYSYFXX'],
             self::TYPE['FRYDTQFXX'],
         ),
+        IUserGroup::ID['AFXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['WAXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['YFXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['JSXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['SCXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['QYQMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['THXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['XJXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['XGXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['JGQMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
+        IUserGroup::ID['YXXMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO']
+        ),
 
         
         //@position_usergroup
