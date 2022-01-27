@@ -209,6 +209,11 @@ IResourceCatalog::TYPE['LDYG_INFO'] => 'LDYG_INFO',
 IResourceCatalog::TYPE['P_JZHJCWFJL'] => 'P_JZHJCWFJL',
 IResourceCatalog::TYPE['P_YSZYZ'] => 'P_YSZYZ',
 IResourceCatalog::TYPE['WMDW_INFO'] => 'WMDW_INFO',
+IResourceCatalog::TYPE['GRDKHKMX'] => 'GRDKHKMX',
+IResourceCatalog::TYPE['GRJCJCXX'] => 'GRJCJCXX',
+IResourceCatalog::TYPE['GRJCMX'] => 'GRJCMX',
+IResourceCatalog::TYPE['GRMXXX'] => 'GRMXXX',
+IResourceCatalog::TYPE['JASRKJBXX'] => 'JASRKJBXX',
         //@position
     );
 }

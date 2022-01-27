@@ -128,7 +128,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['P_YXSBHQS'] => '获得“三八红旗手”荣誉称号信息',
 IResourceCatalog::TYPE['C_DKJBXX'] => '贷款基本信息',
 IResourceCatalog::TYPE['C_DSSWDJXX'] => '（税务）登记信息变更函',
-IResourceCatalog::TYPE['C_ZFGJJ'] => '住房公积金缴费信息',
+IResourceCatalog::TYPE['C_ZFGJJ'] => '住房公积金缴费信息（单位住房公积金缴存信息）',
 IResourceCatalog::TYPE['DFJFJL_INFO'] => '电费缴费记录信息',
 IResourceCatalog::TYPE['P_GJJDKXX'] => '公积金贷款信息',
 IResourceCatalog::TYPE['P_GRDBJFF_INFO'] => '个人低保金发放信息',
@@ -209,6 +209,11 @@ IResourceCatalog::TYPE['LDYG_INFO'] => '劳动用工信息',
 IResourceCatalog::TYPE['P_JZHJCWFJL'] => '酒驾后驾车违法行为记录',
 IResourceCatalog::TYPE['P_YSZYZ'] => '医师执业证信息',
 IResourceCatalog::TYPE['WMDW_INFO'] => '文明单位信息',
+IResourceCatalog::TYPE['GRDKHKMX'] => '个人贷款还款明细',
+IResourceCatalog::TYPE['GRJCJCXX'] => '个人缴存基础信息',
+IResourceCatalog::TYPE['GRJCMX'] => '个人缴存明细',
+IResourceCatalog::TYPE['GRMXXX'] => '个人明细信息',
+IResourceCatalog::TYPE['JASRKJBXX'] => '吉安市人口基本信息',
         //@position
     );
 }

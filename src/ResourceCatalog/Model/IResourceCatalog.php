@@ -208,7 +208,12 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'P_JZHJCWFJL'=>201,
         'P_YSZYZ'=>202,
         'WMDW_INFO'=>203,
-        //@position_type_204
+        'GRDKHKMX'=>204,
+        'GRJCJCXX'=>205,
+        'GRJCMX'=>206,
+        'GRMXXX'=>207,
+        'JASRKJBXX'=>208,
+        //@position_type_209
         'TEST' => 500,
     );
 
@@ -347,7 +352,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['JDCWFXX'],
             self::TYPE['DFXBMDXX'],
             self::TYPE['FRHEIMD'],
-            self::TYPE['P_JZHJCWFJL']
+            self::TYPE['P_JZHJCWFJL'],
+            self::TYPE['JASRKJBXX'],
         ),
         IUserGroup::ID['SJYJ'] => array(
             self::TYPE['P_SJYJT_XSXJXX'],
@@ -492,7 +498,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['GJJGRDKXX'],
             self::TYPE['GJJGRJCXX'],
             self::TYPE['GJJJCXX'],
-            self::TYPE['FRHEIMD']
+            self::TYPE['FRHEIMD'],
+            self::TYPE['GRDKHKMX'],
+            self::TYPE['GRJCJCXX'],
+            self::TYPE['GRJCMX'],
+            self::TYPE['GRMXXX'],
         ),
         IUserGroup::ID['GDGS'] => array(
             self::TYPE['DFJFJL_INFO'],
@@ -1316,7 +1326,106 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['YXXMZJ'] => array(
             self::TYPE['P_GRDBJFF_INFO']
         ),
-
+        IUserGroup::ID['JSXZFGJJ'] => array(
+            self::TYPE['C_DKJBXX'],
+            self::TYPE['GRDKHKMX'],
+            self::TYPE['GRJCJCXX'],
+            self::TYPE['GRJCMX'],
+            self::TYPE['GRMXXX'],
+            self::TYPE['C_ZFGJJ'],
+        ),
+        IUserGroup::ID['SCXZFGJJ'] => array(
+            self::TYPE['C_DKJBXX'],
+            self::TYPE['GRDKHKMX'],
+            self::TYPE['GRJCJCXX'],
+            self::TYPE['GRJCMX'],
+            self::TYPE['GRMXXX'],
+            self::TYPE['C_ZFGJJ'],
+        ),
+        IUserGroup::ID['QYQSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['SCXSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['AFXSCJDGLJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['THXSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['WAXSGJDGLJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['YXXSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['YFXSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['XJXSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['XGXSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['JAXSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['JSXSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['JGQSJJ'] => array(
+            self::TYPE['GTGSHXX'],
+            self::TYPE['QYJBXX'],
+        ),
+        IUserGroup::ID['YFXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['JKQGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['QYQGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['XJXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['THXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['JSXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['WAXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['AFXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['YXXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['XGXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['JAXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
+        IUserGroup::ID['SCXGAJ'] => array(
+            self::TYPE['JASRKJBXX'],
+        ),
         
         //@position_usergroup
     );
