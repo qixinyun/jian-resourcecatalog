@@ -241,6 +241,17 @@ IResourceCatalog::TYPE['P_GUA_GZZ_INFO'] => 'p_gua_gzz_info',
 IResourceCatalog::TYPE['DGZJGJL_INFO'] => 'dgzjgjl_info',
 IResourceCatalog::TYPE['DLSSWSJL_INFO'] => 'dlsswsjl_info',
 IResourceCatalog::TYPE['DSFJDJGJL_INFO'] => 'dsfjdjgjl_info',
+
+IResourceCatalog::TYPE['FDDBRXX'] => 'fddbrxx',
+IResourceCatalog::TYPE['JYJCJGZZRDXX'] => 'jyjcjgzzrdxx',
+IResourceCatalog::TYPE['QYBGXX'] => 'qybgxx',
+IResourceCatalog::TYPE['QYDSJSBNXX'] => 'qydsjsbnxx',
+IResourceCatalog::TYPE['SCZTSHTZXYGSXX'] => 'scztshtzxygsxx',
+IResourceCatalog::TYPE['SPSCQYXX'] => 'spscqyxx',
+IResourceCatalog::TYPE['TZSBAZGZWXDWZGXKZXX'] => 'tzsbazgzwxdwzgxkzxx',
+IResourceCatalog::TYPE['YDSYLRQCZDWZGXKXX'] => 'ydsylrqczdwzgxkxx',
+IResourceCatalog::TYPE['YLQXJYQYXX'] => 'ylqxjyqyxx',
+IResourceCatalog::TYPE['YLQXSCQYXX'] => 'ylqxscqyxx',
         //@position
     );
 }

@@ -239,6 +239,18 @@ IResourceCatalog::TYPE['P_GUA_GZZ_INFO'] => '全省（市）教育系统先进�
 IResourceCatalog::TYPE['DGZJGJL_INFO'] => '对公证机构奖励信息',
 IResourceCatalog::TYPE['DLSSWSJL_INFO'] => '对律师事务所奖励信息',
 IResourceCatalog::TYPE['DSFJDJGJL_INFO'] => '对司法鉴定机构奖励信息',
+
+IResourceCatalog::TYPE['FDDBRXX'] => '法定代表人信息',
+IResourceCatalog::TYPE['JYJCJGZZRDXX'] => '检验检测机构资质认定信息',
+IResourceCatalog::TYPE['QYBGXX'] => '企业变更信息',
+IResourceCatalog::TYPE['QYDSJSBNXX'] => '企业董事监事备案信息',
+IResourceCatalog::TYPE['SCZTSHTZXYGSXX'] => '市场主体守合同重信用公示信息',
+IResourceCatalog::TYPE['SPSCQYXX'] => '食品生产企业信息',
+IResourceCatalog::TYPE['TZSBAZGZWXDWZGXKZXX'] => '特种设备安装改造维修单位资格许可证信息',
+IResourceCatalog::TYPE['YDSYLRQCZDWZGXKXX'] => '移动式压力容器充装单位资格许可信息',
+IResourceCatalog::TYPE['YLQXJYQYXX'] => '医疗器械经营企业信息',
+IResourceCatalog::TYPE['YLQXSCQYXX'] => '医疗器械生产企业信息',
+
         //@position
     );
 }
