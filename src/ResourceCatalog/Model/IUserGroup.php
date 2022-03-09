@@ -225,7 +225,8 @@ interface IUserGroup extends IUserGroupIdentify
         'JGSSWMB' => 308,
         'JGSSYJGLJ' => 309,
         'JGSSZJJ' => 310,
-        'JGSSJTJ' => 311,
+        'JGSSZRZYJ' => 311,
+        'JGSSJTJ' => 312,
 
         'AFXZJJ' => 400,
         'AFXLYJ' => 401,
