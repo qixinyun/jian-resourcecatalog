@@ -251,6 +251,19 @@ IResourceCatalog::TYPE['YDSYLRQCZDWZGXKXX'] => '移动式压力容器充装单�
 IResourceCatalog::TYPE['YLQXJYQYXX'] => '医疗器械经营企业信息',
 IResourceCatalog::TYPE['YLQXSCQYXX'] => '医疗器械生产企业信息',
 
+IResourceCatalog::TYPE['DLYGJGXX'] => '道路运管机构信息',
+IResourceCatalog::TYPE['DLYSJYZCFXX'] => '道路运输经营者处罚信息',
+IResourceCatalog::TYPE['DLYSQYRYXX'] => '道路运输企业荣誉信息',
+IResourceCatalog::TYPE['GLJSSCQYXX'] => '公路建设市场企业信息',
+IResourceCatalog::TYPE['JYXDLKYYSJSYHMD'] => '经营性道路客运运输驾驶员黑名单',
+IResourceCatalog::TYPE['SLJSSCQYXX'] => '水路建设市场企业信息',
+IResourceCatalog::TYPE['SLYGJGXX'] => '水路运管机构信息',
+IResourceCatalog::TYPE['SLYSQYRYXX'] => '水路运输企业荣誉信息',
+IResourceCatalog::TYPE['YYCLXXFR'] => '营运车辆信息(法人)',
+IResourceCatalog::TYPE['YYCLXXZRR'] => '营运车辆信息(自然人)',
+IResourceCatalog::TYPE['YYCPXXFR'] => '营运船舶信息(法人)',
+IResourceCatalog::TYPE['YYCPXXZRR'] => '营运船舶信息(自然人)',
+IResourceCatalog::TYPE['ZYCYZGXX'] => '职业从业资格信息',
         //@position
     );
 }

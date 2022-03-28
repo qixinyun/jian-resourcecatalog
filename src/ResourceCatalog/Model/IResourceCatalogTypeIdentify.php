@@ -252,6 +252,19 @@ IResourceCatalog::TYPE['YDSYLRQCZDWZGXKXX'] => 'YDSYLRQCZDWZGXKXX',
 IResourceCatalog::TYPE['YLQXJYQYXX'] => 'YLQXJYQYXX',
 IResourceCatalog::TYPE['YLQXSCQYXX'] => 'YLQXSCQYXX',
 
+IResourceCatalog::TYPE['DLYGJGXX'] => 'DLYGJGXX',
+IResourceCatalog::TYPE['DLYSJYZCFXX'] => 'DLYSJYZCFXX',
+IResourceCatalog::TYPE['DLYSQYRYXX'] => 'DLYSQYRYXX',
+IResourceCatalog::TYPE['GLJSSCQYXX'] => 'GLJSSCQYXX',
+IResourceCatalog::TYPE['JYXDLKYYSJSYHMD'] => 'JYXDLKYYSJSYHMD',
+IResourceCatalog::TYPE['SLJSSCQYXX'] => 'SLJSSCQYXX',
+IResourceCatalog::TYPE['SLYGJGXX'] => 'SLYGJGXX',
+IResourceCatalog::TYPE['SLYSQYRYXX'] => 'SLYSQYRYXX',
+IResourceCatalog::TYPE['YYCLXXFR'] => 'YYCLXXFR',
+IResourceCatalog::TYPE['YYCLXXZRR'] => 'YYCLXXZRR',
+IResourceCatalog::TYPE['YYCPXXFR'] => 'YYCPXXFR',
+IResourceCatalog::TYPE['YYCPXXZRR'] => 'YYCPXXZRR',
+IResourceCatalog::TYPE['ZYCYZGXX'] => 'ZYCYZGXX',
         //@position
     );
 }
