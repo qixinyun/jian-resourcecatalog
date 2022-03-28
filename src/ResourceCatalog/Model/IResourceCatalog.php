@@ -249,7 +249,20 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'YDSYLRQCZDWZGXKXX'=>241,
         'YLQXJYQYXX'=>242,
         'YLQXSCQYXX'=>243,
-        //@position_type_244
+'DLYGJGXX'=>244,
+'DLYSJYZCFXX'=>245,
+'DLYSQYRYXX'=>246,
+'GLJSSCQYXX'=>247,
+'JYXDLKYYSJSYHMD'=>248,
+'SLJSSCQYXX'=>249,
+'SLYGJGXX'=>250,
+'SLYSQYRYXX'=>251,
+'YYCLXXFR'=>252,
+'YYCLXXZRR'=>253,
+'YYCPXXFR'=>254,
+'YYCPXXZRR'=>255,
+'ZYCYZGXX'=>256,
+        //@position_type_257
         'TEST' => 500,
     );
 
@@ -1714,6 +1727,19 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['C_SXBZXJG']
         ),
 
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['DLYGJGXX']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['DLYSJYZCFXX']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['DLYSQYRYXX']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['GLJSSCQYXX']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['JYXDLKYYSJSYHMD']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['SLJSSCQYXX']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['SLYGJGXX']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['SLYSQYRYXX']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['YYCLXXFR']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['YYCLXXZRR']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['YYCPXXFR']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['YYCPXXZRR']),
+IUserGroup::ID['吉安市交通运输局'] => array(self::TYPE['ZYCYZGXX']),
         //@position_usergroup
     );
 
