@@ -41,7 +41,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['CMQYSBXX'] => '驰名商标、企业著名商标信息',
         IResourceCatalog::TYPE['YPLSQYXX'] => '药品零售企业信息',
         IResourceCatalog::TYPE['YZTQSBXXHMD'] => '严重拖欠社保信息黑名单',
-        IResourceCatalog::TYPE['JGRYXX'] => '机构荣誉信息',
         IResourceCatalog::TYPE['SPYPTSJBJLGR'] => '食品药品投诉举报奖励（个人）',
         IResourceCatalog::TYPE['SPYPTSJBJLDW'] => '食品药品投诉举报奖励（单位）',
         IResourceCatalog::TYPE['JXMPCPXX'] => '名牌产品信息',
@@ -239,7 +238,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DGZJGJL_INFO'] => '对公证机构奖励信息',
         IResourceCatalog::TYPE['DLSSWSJL_INFO'] => '对律师事务所奖励信息',
         IResourceCatalog::TYPE['DSFJDJGJL_INFO'] => '对司法鉴定机构奖励信息',
-
         IResourceCatalog::TYPE['FDDBRXX'] => '法定代表人信息',
         IResourceCatalog::TYPE['JYJCJGZZRDXX'] => '检验检测机构资质认定信息',
         IResourceCatalog::TYPE['QYBGXX'] => '企业变更信息',
@@ -250,7 +248,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['YDSYLRQCZDWZGXKXX'] => '移动式压力容器充装单位资格许可信息',
         IResourceCatalog::TYPE['YLQXJYQYXX'] => '医疗器械经营企业信息',
         IResourceCatalog::TYPE['YLQXSCQYXX'] => '医疗器械生产企业信息',
-
         IResourceCatalog::TYPE['DLYGJGXX'] => '道路运管机构信息',
         IResourceCatalog::TYPE['DLYSJYZCFXX'] => '道路运输经营者处罚信息',
         IResourceCatalog::TYPE['DLYSQYRYXX'] => '道路运输企业荣誉信息',

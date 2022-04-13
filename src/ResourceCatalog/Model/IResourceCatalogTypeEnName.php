@@ -39,7 +39,6 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['CMQYSBXX'] => 'cmqysbxx',
         IResourceCatalog::TYPE['YPLSQYXX'] => 'yplsqyxx',
         IResourceCatalog::TYPE['YZTQSBXXHMD'] => 'yztqsbxxhmd',
-        IResourceCatalog::TYPE['JGRYXX'] => 'jgryxx',
         IResourceCatalog::TYPE['SPYPTSJBJLGR'] => 'spyptsjbjlgr',
         IResourceCatalog::TYPE['SPYPTSJBJLDW'] => 'spyptsjbjldw',
         IResourceCatalog::TYPE['JXMPCPXX'] => 'jxmpcpxx',
