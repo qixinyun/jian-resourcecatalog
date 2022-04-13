@@ -42,7 +42,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['CMQYSBXX'] => '驰名商标、企业著名商标信息',
         IResourceCatalog::TYPE['YPLSQYXX'] => '药品零售企业信息',
         IResourceCatalog::TYPE['YZTQSBXXHMD'] => '严重拖欠社保信息黑名单',
-        IResourceCatalog::TYPE['JGRYXX'] => '机构荣誉信息',
         IResourceCatalog::TYPE['SPYPTSJBJLGR'] => '食品药品投诉举报奖励（个人）',
         IResourceCatalog::TYPE['SPYPTSJBJLDW'] => '食品药品投诉举报奖励（单位）',
         IResourceCatalog::TYPE['JXMPCPXX'] => '名牌产品信息',
@@ -240,7 +239,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DGZJGJL_INFO'] => '对公证机构奖励信息',
         IResourceCatalog::TYPE['DLSSWSJL_INFO'] => '对律师事务所奖励信息',
         IResourceCatalog::TYPE['DSFJDJGJL_INFO'] => '对司法鉴定机构奖励信息',
-
         IResourceCatalog::TYPE['FDDBRXX'] => '法定代表人信息',
         IResourceCatalog::TYPE['JYJCJGZZRDXX'] => '检验检测机构资质认定信息',
         IResourceCatalog::TYPE['QYBGXX'] => '企业变更信息',
@@ -251,7 +249,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['YDSYLRQCZDWZGXKXX'] => '移动式压力容器充装单位资格许可信息',
         IResourceCatalog::TYPE['YLQXJYQYXX'] => '医疗器械经营企业信息',
         IResourceCatalog::TYPE['YLQXSCQYXX'] => '医疗器械生产企业信息',
-
         IResourceCatalog::TYPE['DLYGJGXX'] => '道路运管机构信息',
         IResourceCatalog::TYPE['DLYSJYZCFXX'] => '道路运输经营者处罚信息',
         IResourceCatalog::TYPE['DLYSQYRYXX'] => '道路运输企业荣誉信息',
@@ -274,6 +271,14 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SJSFXXXPGRDXX'] => '省级示范性学校评估认定信息',
         IResourceCatalog::TYPE['SQEJCPYDJXX'] => '申请二级裁判员登记信息',
         IResourceCatalog::TYPE['YDYFZRYFFCYXFJDCFXX'] => '运动员辅助人员非法持有兴奋剂的处罚信息',
+        IResourceCatalog::TYPE['GRRYXX'] => '个人荣誉信息',
+        IResourceCatalog::TYPE['GXJSQYRDXX'] => '高新技术企业认定信息',
+        IResourceCatalog::TYPE['JGRYXX'] => '机构荣誉信息',
+        IResourceCatalog::TYPE['JXSCYJSCXLM'] => '江西省产业技术创新联盟',
+        IResourceCatalog::TYPE['JXSXCTD'] => '江西省星创天地',
+        IResourceCatalog::TYPE['JXSZCKJ'] => '江西省众创空间',
+        IResourceCatalog::TYPE['SGCJSYJZXRDXX'] => '省工程技术研究中心（重点实验室）认定信息',
+        IResourceCatalog::TYPE['SJKJQYFHQRDXX'] => '省级科技企业孵化器认定信息',
         //@position
     );
 }
