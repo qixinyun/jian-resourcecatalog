@@ -498,10 +498,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['DFXBMDXX'],
             self::TYPE['FRHEIMD'],
             self::TYPE['C_JYJG'],
-            self::TYPE['P_EJTYZDY_INFO'],
-            self::TYPE['P_EJYDY_INFO'],
-            self::TYPE['C_QSJYXTXJJT'],
-            self::TYPE['P_GUA_GZZ_INFO'],
         ),
         IUserGroup::ID['SWSJKW'] => array(
             self::TYPE['P_HSZYZ'],
