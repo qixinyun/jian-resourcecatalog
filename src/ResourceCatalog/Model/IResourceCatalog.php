@@ -416,9 +416,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['DFXBMDXX'],
             self::TYPE['FRHEIMD']
         ),
-        IUserGroup::ID['SJTJ'] => array(
-            self::TYPE['P_CAR_INFO'], 
-            self::TYPE['C_YYCL'],
+        IUserGroup::ID['SJTJ'] => array( 
             self::TYPE['P_CAR_INFO'],
             self::TYPE['C_YYCL'],
             self::TYPE['SLYSXKZXX'],
