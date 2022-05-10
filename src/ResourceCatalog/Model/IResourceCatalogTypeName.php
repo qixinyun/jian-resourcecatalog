@@ -279,6 +279,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JXSZCKJ'] => '江西省众创空间',
         IResourceCatalog::TYPE['SGCJSYJZXRDXX'] => '省工程技术研究中心（重点实验室）认定信息',
         IResourceCatalog::TYPE['SJKJQYFHQRDXX'] => '省级科技企业孵化器认定信息',
+        IResourceCatalog::TYPE['FYPLYZDHXPBAXX'] => '非药品类易制毒化学品备案信息',
+        IResourceCatalog::TYPE['SJSCJYDWAQSCBLJLHMDXX'] => '省级生产经营单位安全生产不良记录“黑名单”信息',
+        IResourceCatalog::TYPE['SLSCJYDWAQSCBLJLHMDXX'] => '市级生产经营单位安全生产不良记录“黑名单”信息',
         //@position
     );
 }

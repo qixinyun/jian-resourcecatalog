@@ -279,6 +279,9 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['JXSZCKJ'] => 'JXSZCKJ',
         IResourceCatalog::TYPE['SGCJSYJZXRDXX'] => 'SGCJSYJZXRDXX',
         IResourceCatalog::TYPE['SJKJQYFHQRDXX'] => 'SJKJQYFHQRDXX',
+        IResourceCatalog::TYPE['FYPLYZDHXPBAXX'] => 'FYPLYZDHXPBAXX',
+        IResourceCatalog::TYPE['SJSCJYDWAQSCBLJLHMDXX'] => 'SJSCJYDWAQSCBLJLHMDXX',
+        IResourceCatalog::TYPE['SLSCJYDWAQSCBLJLHMDXX'] => 'SLSCJYDWAQSCBLJLHMDXX',
         //@position
     );
 }
