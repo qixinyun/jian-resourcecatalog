@@ -551,5 +551,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['SDXGS'] => 'SDXGS',
         IUserGroup::ID['SYDGS'] => 'SYDGS',
         IUserGroup::ID['SLTGS'] => 'SLTGS',
+
+        IUserGroup::ID['JKQSJJ'] => 'JKQSJJ',
     );
 }
