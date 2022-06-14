@@ -303,6 +303,12 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['YXFZFXZ'] => '优秀法制副校长',
         IResourceCatalog::TYPE['YXQNZYZ'] => '优秀青年志愿者',
         IResourceCatalog::TYPE['YXQNZYZZZ'] => '优秀青年志愿者组织',
+        IResourceCatalog::TYPE['FFTQGJJXX'] => '非法套取公积金信息',
+        IResourceCatalog::TYPE['JCKQYJYJYXYGLXX'] => '进出口企业检验检疫信用管理信息',
+        IResourceCatalog::TYPE['QYHGZCXX'] => '企业海关注册信息',
+        IResourceCatalog::TYPE['QYXYGLXX'] => '企业信用管理信息',
+        IResourceCatalog::TYPE['SFQYXX'] => '示范企业信息',
+        IResourceCatalog::TYPE['YQWJNGJJDK'] => '逾期未缴纳公积金贷款',
         //@position
     );
 }
