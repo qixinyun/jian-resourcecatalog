@@ -303,6 +303,13 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['QSTJJTJLXX'] => 'QSTJJTJLXX',
         IResourceCatalog::TYPE['XFZDDWJBXX'] => 'XFZDDWJBXX',
         IResourceCatalog::TYPE['ZDHZYHMDXX'] => 'ZDHZYHMDXX',
+        IResourceCatalog::TYPE['SPYBNCPRZXX'] => 'SPYBNCPRZXX',
+        IResourceCatalog::TYPE['GYSXX'] => 'GYSXX',
+        IResourceCatalog::TYPE['JXSZFCGJGGSXX'] => 'JXSZFCGJGGSXX',
+        IResourceCatalog::TYPE['KJCYZGXX'] => 'KJCYZGXX',
+        IResourceCatalog::TYPE['KJSWSDJXX'] => 'KJSWSDJXX',
+        IResourceCatalog::TYPE['ZCKJSXX'] => 'ZCKJSXX',
+        IResourceCatalog::TYPE['ZFCGDLYHKXX'] => 'ZFCGDLYHKXX',
         //@position
     );
 }

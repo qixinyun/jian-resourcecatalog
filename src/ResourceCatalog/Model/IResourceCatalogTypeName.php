@@ -316,6 +316,13 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QSTJJTJLXX'] => '全省统计集体奖励信息',
         IResourceCatalog::TYPE['XFZDDWJBXX'] => '消防重点单位基本信息',
         IResourceCatalog::TYPE['ZDHZYHMDXX'] => '重大火灾隐患名单信息',
+        IResourceCatalog::TYPE['SPYBNCPRZXX'] => '“三品一标”农产品认证信息',
+        IResourceCatalog::TYPE['GYSXX'] => '供应商信息',
+        IResourceCatalog::TYPE['JXSZFCGJGGSXX'] => '江西省政府采购机构公示信息',
+        IResourceCatalog::TYPE['KJCYZGXX'] => '会计从业资格信息',
+        IResourceCatalog::TYPE['KJSWSDJXX'] => '会计师事务所登记信息',
+        IResourceCatalog::TYPE['ZCKJSXX'] => '注册会计师信息',
+        IResourceCatalog::TYPE['ZFCGDLYHKXX'] => '政府采购代理用户库信息',
         //@position
     );
 }
