@@ -309,6 +309,13 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYXYGLXX'] => '企业信用管理信息',
         IResourceCatalog::TYPE['SFQYXX'] => '示范企业信息',
         IResourceCatalog::TYPE['YQWJNGJJDK'] => '逾期未缴纳公积金贷款',
+        IResourceCatalog::TYPE['DWJLXX'] => '单位奖励信息',
+        IResourceCatalog::TYPE['LYLYNDGRJLXX'] => '林业领域内对个人奖励信息',
+        IResourceCatalog::TYPE['LYLYNDJTJLXX'] => '林业领域内对集体奖励信息',
+        IResourceCatalog::TYPE['QSRKNYJJPCXJJTJL'] => '全市人口、农业、经济普查先进集体奖励',
+        IResourceCatalog::TYPE['QSTJJTJLXX'] => '全省统计集体奖励信息',
+        IResourceCatalog::TYPE['XFZDDWJBXX'] => '消防重点单位基本信息',
+        IResourceCatalog::TYPE['ZDHZYHMDXX'] => '重大火灾隐患名单信息',
         //@position
     );
 }
