@@ -323,6 +323,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['KJSWSDJXX'] => '会计师事务所登记信息',
         IResourceCatalog::TYPE['ZCKJSXX'] => '注册会计师信息',
         IResourceCatalog::TYPE['ZFCGDLYHKXX'] => '政府采购代理用户库信息',
+        IResourceCatalog::TYPE['CZNXZJXWDHJJCRYMD'] => '存在弄虚作假行为的环境监测人员名单',
+        IResourceCatalog::TYPE['CZNXZJXWDSHHJJCJGMD'] => '存在弄虚作假行为的社会环境监测机构名单',
+        IResourceCatalog::TYPE['HBCYRYXX'] => '环保从业人员信息',
+        IResourceCatalog::TYPE['QZQJSCSHQYMD'] => '强制清洁生产审核企业名单',
         //@position
     );
 }
