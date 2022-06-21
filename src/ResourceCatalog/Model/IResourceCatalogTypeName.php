@@ -327,6 +327,12 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['CZNXZJXWDSHHJJCJGMD'] => '存在弄虚作假行为的社会环境监测机构名单',
         IResourceCatalog::TYPE['HBCYRYXX'] => '环保从业人员信息',
         IResourceCatalog::TYPE['QZQJSCSHQYMD'] => '强制清洁生产审核企业名单',
+        IResourceCatalog::TYPE['JXSXXWXQYCYCXSFJDSBRDXX'] => '江西省小型微型企业创业创新示范基地申报认定信息',
+        IResourceCatalog::TYPE['JXSZJTXZXQYXX'] => '江西省“专精特新”中小企业信息',
+        IResourceCatalog::TYPE['JXSZXQYGGFWSFPTRDXX'] => '江西省中小企业公共服务示范平台认定信息',
+        IResourceCatalog::TYPE['SJQYJSZXRDXX'] => '省级企业技术中心认定信息',
+        IResourceCatalog::TYPE['SYDDSCQYSPXX'] => '食盐定点生产企业审批信息',
+        IResourceCatalog::TYPE['ZDCYHCXXMXX'] => '重点产业化创新项目信息',
         //@position
     );
 }
