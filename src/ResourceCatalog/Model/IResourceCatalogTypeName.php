@@ -333,6 +333,17 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SJQYJSZXRDXX'] => '省级企业技术中心认定信息',
         IResourceCatalog::TYPE['SYDDSCQYSPXX'] => '食盐定点生产企业审批信息',
         IResourceCatalog::TYPE['ZDCYHCXXMXX'] => '重点产业化创新项目信息',
+        IResourceCatalog::TYPE['CHZZDWXX'] => '测绘资质单位信息',
+        IResourceCatalog::TYPE['CKXKZXX'] => '采矿许可证信息',
+        IResourceCatalog::TYPE['GRRYXXSGZW'] => '个人荣誉信息',
+        IResourceCatalog::TYPE['GTZYLYRYXX'] => '国土资源领域荣誉信息',
+        IResourceCatalog::TYPE['GYQYJBXX'] => '国有企业基本信息',
+        IResourceCatalog::TYPE['KCZYKCXKZXX'] => '矿产资源勘查许可证信息',
+        IResourceCatalog::TYPE['KYQJYXX'] => '矿业权（采矿权、探矿权）交易信息',
+        IResourceCatalog::TYPE['QYKHXX'] => '企业考核信息',
+        IResourceCatalog::TYPE['QYRYXXSGZW'] => '企业荣誉信息',
+        IResourceCatalog::TYPE['TDJYXXFR'] => '土地交易信息-法人',
+        IResourceCatalog::TYPE['TDJYXXZRR'] => '土地交易信息-自然人',
         //@position
     );
 }

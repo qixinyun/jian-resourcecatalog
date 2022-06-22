@@ -320,6 +320,17 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['SJQYJSZXRDXX'] => 'SJQYJSZXRDXX',
         IResourceCatalog::TYPE['SYDDSCQYSPXX'] => 'SYDDSCQYSPXX',
         IResourceCatalog::TYPE['ZDCYHCXXMXX'] => 'ZDCYHCXXMXX',
+        IResourceCatalog::TYPE['CHZZDWXX'] => 'CHZZDWXX',
+        IResourceCatalog::TYPE['CKXKZXX'] => 'CKXKZXX',
+        IResourceCatalog::TYPE['GRRYXXSGZW'] => 'GRRYXXSGZW',
+        IResourceCatalog::TYPE['GTZYLYRYXX'] => 'GTZYLYRYXX',
+        IResourceCatalog::TYPE['GYQYJBXX'] => 'GYQYJBXX',
+        IResourceCatalog::TYPE['KCZYKCXKZXX'] => 'KCZYKCXKZXX',
+        IResourceCatalog::TYPE['KYQJYXX'] => 'KYQJYXX',
+        IResourceCatalog::TYPE['QYKHXX'] => 'QYKHXX',
+        IResourceCatalog::TYPE['QYRYXXSGZW'] => 'QYRYXXSGZW',
+        IResourceCatalog::TYPE['TDJYXXFR'] => 'TDJYXXFR',
+        IResourceCatalog::TYPE['TDJYXXZRR'] => 'TDJYXXZRR',
         //@position
     );
 }
