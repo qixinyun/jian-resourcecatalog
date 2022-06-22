@@ -213,7 +213,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'GRJCMX'=>206,
         'GRMXXX'=>207,
         'JASRKJBXX'=>208,
-        'C_GTZYLYRY'=>209,
+        // 'C_GTZYLYRY'=>209,
         'C_HBHMDQY'=>210,
         'P_GRHBRYXX'=>211,
         'C_JGJGXJJT'=>212,
