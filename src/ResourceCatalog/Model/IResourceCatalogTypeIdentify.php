@@ -331,6 +331,14 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['QYRYXXSGZW'] => 'QYRYXXSGZW',
         IResourceCatalog::TYPE['TDJYXXFR'] => 'TDJYXXFR',
         IResourceCatalog::TYPE['TDJYXXZRR'] => 'TDJYXXZRR',
+        IResourceCatalog::TYPE['TQNMGGZQYXX'] => 'TQNMGGZQYXX',
+        IResourceCatalog::TYPE['RLZYJGNJXX'] => 'RLZYJGNJXX',
+        IResourceCatalog::TYPE['QYCBQJXX'] => 'QYCBQJXX',
+        IResourceCatalog::TYPE['GRRYXXSRSJ'] => 'GRRYXXSRSJ',
+        IResourceCatalog::TYPE['YANGLAOBXXX'] => 'YANGLAOBXXX',
+        IResourceCatalog::TYPE['GRBXSXXX'] => 'GRBXSXXX',
+        IResourceCatalog::TYPE['ZDLDBZWFXWSHGBXX'] => 'ZDLDBZWFXWSHGBXX',
+        IResourceCatalog::TYPE['SJLDBZCXSFDWRDXX'] => 'SJLDBZCXSFDWRDXX',
         //@position
     );
 }

@@ -331,6 +331,14 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['QYRYXXSGZW'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['TDJYXXFR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['TDJYXXZRR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['TQNMGGZQYXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['RLZYJGNJXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['QYCBQJXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['GRRYXXSRSJ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['YANGLAOBXXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['GRBXSXXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['ZDLDBZWFXWSHGBXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['SJLDBZCXSFDWRDXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         //@position
     );
 }

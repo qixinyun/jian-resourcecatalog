@@ -344,6 +344,14 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYRYXXSGZW'] => '企业荣誉信息',
         IResourceCatalog::TYPE['TDJYXXFR'] => '土地交易信息-法人',
         IResourceCatalog::TYPE['TDJYXXZRR'] => '土地交易信息-自然人',
+        IResourceCatalog::TYPE['TQNMGGZQYXX'] => '拖欠农民工工资企业信息',
+        IResourceCatalog::TYPE['RLZYJGNJXX'] => '人力资源机构年检信息',
+        IResourceCatalog::TYPE['QYCBQJXX'] => '企业参保欠缴信息',
+        IResourceCatalog::TYPE['GRRYXXSRSJ'] => '个人荣誉信息',
+        IResourceCatalog::TYPE['YANGLAOBXXX'] => '养老保险信息',
+        IResourceCatalog::TYPE['GRBXSXXX'] => '个人保险失信信息',
+        IResourceCatalog::TYPE['ZDLDBZWFXWSHGBXX'] => '重大劳动保障违法行为社会公布信息',
+        IResourceCatalog::TYPE['SJLDBZCXSFDWRDXX'] => '市级劳动保障诚信示范单位认定信息',
         //@position
     );
 }

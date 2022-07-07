@@ -333,6 +333,14 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['QYRYXXSGZW'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['TDJYXXFR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['TDJYXXZRR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['TQNMGGZQYXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
+        IResourceCatalog::TYPE['RLZYJGNJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['QYCBQJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['GRRYXXSRSJ'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
+        IResourceCatalog::TYPE['YANGLAOBXXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
+        IResourceCatalog::TYPE['GRBXSXXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
+        IResourceCatalog::TYPE['ZDLDBZWFXWSHGBXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
+        IResourceCatalog::TYPE['SJLDBZCXSFDWRDXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         //@position
     );
 }
