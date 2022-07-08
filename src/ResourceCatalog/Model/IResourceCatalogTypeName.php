@@ -41,7 +41,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['GTGSHXX'] => '个体工商户信息',
         IResourceCatalog::TYPE['CMQYSBXX'] => '驰名商标、企业著名商标信息',
         IResourceCatalog::TYPE['YPLSQYXX'] => '药品零售企业信息',
-        IResourceCatalog::TYPE['YZTQSBXXHMD'] => '严重拖欠社保信息黑名单',
+        // IResourceCatalog::TYPE['YZTQSBXXHMD'] => '严重拖欠社保信息黑名单',
         IResourceCatalog::TYPE['SPYPTSJBJLGR'] => '食品药品投诉举报奖励（个人）',
         IResourceCatalog::TYPE['SPYPTSJBJLDW'] => '食品药品投诉举报奖励（单位）',
         IResourceCatalog::TYPE['JXMPCPXX'] => '名牌产品信息',
@@ -54,7 +54,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['GRRYXXJTJ'] => '个人荣誉信息',
         IResourceCatalog::TYPE['GRRYXXGDJ'] => '个人荣誉信息',
         IResourceCatalog::TYPE['GRRYXXMZJ'] => '个人荣誉信息',
-        IResourceCatalog::TYPE['SBQYXX'] => '社保企业信息',
+        // IResourceCatalog::TYPE['SBQYXX'] => '社保企业信息',
         IResourceCatalog::TYPE['SFJDJGDJXX'] => '司法鉴定机构登记信息',
         IResourceCatalog::TYPE['GZJGJBXX'] => '公证机构基本信息',
         IResourceCatalog::TYPE['GZYXX'] => '公证员信息',
@@ -352,6 +352,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['GRBXSXXX'] => '个人保险失信信息',
         IResourceCatalog::TYPE['ZDLDBZWFXWSHGBXX'] => '重大劳动保障违法行为社会公布信息',
         IResourceCatalog::TYPE['SJLDBZCXSFDWRDXX'] => '市级劳动保障诚信示范单位认定信息',
+        IResourceCatalog::TYPE['LDYGXX'] => '劳动用工信息',
+        IResourceCatalog::TYPE['SYBXXX_NEW'] => '失业保险信息',
+        IResourceCatalog::TYPE['SBQYXX_NEW'] => '社保企业信息',
+        IResourceCatalog::TYPE['YZTQSBXXHMD_NEW'] => '严重拖欠社保信息黑名单',
         //@position
     );
 }
