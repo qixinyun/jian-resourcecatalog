@@ -356,6 +356,14 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SYBXXX_NEW'] => '失业保险信息',
         IResourceCatalog::TYPE['SBQYXX_NEW'] => '社保企业信息',
         IResourceCatalog::TYPE['YZTQSBXXHMD_NEW'] => '严重拖欠社保信息黑名单',
+        IResourceCatalog::TYPE['BWGZZXX'] => '博物馆资质信息',
+        IResourceCatalog::TYPE['DZDYZXX'] => '电子导游证信息',
+        IResourceCatalog::TYPE['GRRYXXSGBDST'] => '个人荣誉信息',
+        IResourceCatalog::TYPE['JGRYXX_NEW'] => '机构荣誉信息',
+        IResourceCatalog::TYPE['LXSDJXX_NEW'] => '旅行社登记信息',
+        IResourceCatalog::TYPE['SHFRCSSXHMD'] => '社会法人诚实守信红名单',
+        IResourceCatalog::TYPE['SWLYCXJYSFQYXX'] => '商务领域诚信经营示范企业信息',
+        IResourceCatalog::TYPE['WSTZQYXX'] => '外商投资企业信息',
         //@position
     );
 }
