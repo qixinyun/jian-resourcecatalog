@@ -372,6 +372,14 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SHTTJBXX'] => '社会团体基本信息',
         IResourceCatalog::TYPE['SHTTNJXX'] => '社会团体年检信息',
         IResourceCatalog::TYPE['SHZZBZXX'] => '社会组织表彰信息',
+        IResourceCatalog::TYPE['DZQXGZZZCTCGXDDWJLXX'] => '对在气象工作中做出突出贡献的单位奖励信息',
+        IResourceCatalog::TYPE['DZQXGZZZCTCGXDGRJLXX'] => '对在气象工作中做出突出贡献的个人奖励信息',
+        IResourceCatalog::TYPE['FLJCJGZZXX'] => '防雷检测机构资质信息',
+        IResourceCatalog::TYPE['QSFLGCJCZYJSRYZG'] => '全省防雷工程检测专业技术人员资格',
+        IResourceCatalog::TYPE['QXHYBZZXQKJDXX'] => '气象行业标准执行情况监督信息',
+        IResourceCatalog::TYPE['QXTCHJBHJDXXFR'] => '气象探测环境保护监督信息(法人)',
+        IResourceCatalog::TYPE['QXTCHJBHJDXXGR'] => '气象探测环境保护监督信息(个人)',
+        IResourceCatalog::TYPE['YDJXQHKXXRZDJSXMWLZ'] => '应当进行气候可行性认证的建设项目未论证',
         //@position
     );
 }

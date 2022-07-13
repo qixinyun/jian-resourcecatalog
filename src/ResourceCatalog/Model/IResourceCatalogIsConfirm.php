@@ -360,6 +360,14 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['SHTTJBXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['SHTTNJXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['SHZZBZXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['DZQXGZZZCTCGXDDWJLXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['DZQXGZZZCTCGXDGRJLXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['FLJCJGZZXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['QSFLGCJCZYJSRYZG'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['QXHYBZZXQKJDXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['QXTCHJBHJDXXFR'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['QXTCHJBHJDXXGR'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['YDJXQHKXXRZDJSXMWLZ'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         //@position
     );
 }
