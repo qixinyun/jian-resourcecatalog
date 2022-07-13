@@ -364,6 +364,14 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SHFRCSSXHMD'] => '社会法人诚实守信红名单',
         IResourceCatalog::TYPE['SWLYCXJYSFQYXX'] => '商务领域诚信经营示范企业信息',
         IResourceCatalog::TYPE['WSTZQYXX'] => '外商投资企业信息',
+        IResourceCatalog::TYPE['HQGATGMSYDJXX'] => '华侨、港澳台公民收养登记信息',
+        IResourceCatalog::TYPE['JZQJQYZGXX'] => '假肢器具企业资格信息',
+        IResourceCatalog::TYPE['MBFQYDWJBXX'] => '民办非企业单位基本信息',
+        IResourceCatalog::TYPE['MBFQYDWNJXX'] => '民办非企业单位年检信息',
+        IResourceCatalog::TYPE['RYXX'] => '荣誉信息',
+        IResourceCatalog::TYPE['SHTTJBXX'] => '社会团体基本信息',
+        IResourceCatalog::TYPE['SHTTNJXX'] => '社会团体年检信息',
+        IResourceCatalog::TYPE['SHZZBZXX'] => '社会组织表彰信息',
         //@position
     );
 }
