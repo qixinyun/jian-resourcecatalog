@@ -386,6 +386,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['WFJXSQYGZJTXSTLGD'] => '违反《江西省企业工资集体协商条例》规定',
         IResourceCatalog::TYPE['WFJXSSSGHFBFGD'] => '违反《江西省实施工会法办法》规定',
         IResourceCatalog::TYPE['WFJXSZGDBDHTLGD'] => '违反《江西省职工代表大会条例》规定',
+        IResourceCatalog::TYPE['DDMFYSBHRXX'] => '道德模范与身边好人信息',
+        IResourceCatalog::TYPE['WMDWXX'] => '文明单位信息',
+        IResourceCatalog::TYPE['WMJTXX'] => '文明家庭信息',
+        IResourceCatalog::TYPE['WMXYXX'] => '文明校园信息',
         //@position
     );
 }

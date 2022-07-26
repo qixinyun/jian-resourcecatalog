@@ -376,6 +376,10 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['WFJXSQYGZJTXSTLGD'] => 'wfjxsqygzjtxstlgd',
         IResourceCatalog::TYPE['WFJXSSSGHFBFGD'] => 'wfjxsssghfbfgd',
         IResourceCatalog::TYPE['WFJXSZGDBDHTLGD'] => 'wfjxszgdbdhtlgd',
+        IResourceCatalog::TYPE['DDMFYSBHRXX'] => 'ddmfysbhrxx',
+        IResourceCatalog::TYPE['WMDWXX'] => 'wmdwxx',
+        IResourceCatalog::TYPE['WMJTXX'] => 'wmjtxx',
+        IResourceCatalog::TYPE['WMXYXX'] => 'wmxyxx',
         //@position
     );
 }
