@@ -370,6 +370,12 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QXTCHJBHJDXXFR'] => 'qxtchjbhjdxxfr',
         IResourceCatalog::TYPE['QXTCHJBHJDXXGR'] => 'qxtchjbhjdxxgr',
         IResourceCatalog::TYPE['YDJXQHKXXRZDJSXMWLZ'] => 'ydjxqhkxxrzdjsxmwlz',
+        IResourceCatalog::TYPE['LDMFPXJG'] => 'ldmfpxjg',
+        IResourceCatalog::TYPE['WFJXSCWGKTLGD'] => 'wfjxscwgktlgd',
+        IResourceCatalog::TYPE['WFJXSJTHTTLGD'] => 'wfjxsjthttlgd',
+        IResourceCatalog::TYPE['WFJXSQYGZJTXSTLGD'] => 'wfjxsqygzjtxstlgd',
+        IResourceCatalog::TYPE['WFJXSSSGHFBFGD'] => 'wfjxsssghfbfgd',
+        IResourceCatalog::TYPE['WFJXSZGDBDHTLGD'] => 'wfjxszgdbdhtlgd',
         //@position
     );
 }

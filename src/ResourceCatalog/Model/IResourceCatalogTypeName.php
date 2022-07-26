@@ -380,6 +380,12 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QXTCHJBHJDXXFR'] => '气象探测环境保护监督信息(法人)',
         IResourceCatalog::TYPE['QXTCHJBHJDXXGR'] => '气象探测环境保护监督信息(个人)',
         IResourceCatalog::TYPE['YDJXQHKXXRZDJSXMWLZ'] => '应当进行气候可行性认证的建设项目未论证',
+        IResourceCatalog::TYPE['LDMFPXJG'] => '劳动模范评选结果',
+        IResourceCatalog::TYPE['WFJXSCWGKTLGD'] => '违反《江西省厂务公开条例》规定',
+        IResourceCatalog::TYPE['WFJXSJTHTTLGD'] => '违反《江西省集体合同条例》规定',
+        IResourceCatalog::TYPE['WFJXSQYGZJTXSTLGD'] => '违反《江西省企业工资集体协商条例》规定',
+        IResourceCatalog::TYPE['WFJXSSSGHFBFGD'] => '违反《江西省实施工会法办法》规定',
+        IResourceCatalog::TYPE['WFJXSZGDBDHTLGD'] => '违反《江西省职工代表大会条例》规定',
         //@position
     );
 }
