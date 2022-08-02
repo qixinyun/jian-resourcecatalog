@@ -397,6 +397,9 @@ interface IResourceCatalogTypeEnName
         // IResourceCatalog::TYPE['LSSWSXX_NEW'] => 'lsswsxx_new',
         // IResourceCatalog::TYPE['LSZYZGZXX_NEW'] => 'lszyzgzxx_new',
         // IResourceCatalog::TYPE['SFJDJGDJXX_NEW'] => 'sfjdjgdjxx_new',
+        IResourceCatalog::TYPE['DFXX'] => 'dfxx',
+        IResourceCatalog::TYPE['RQFXX'] => 'rqfxx',
+        IResourceCatalog::TYPE['SFXX'] => 'sfxx',
         //@position
     );
 }

@@ -554,5 +554,6 @@ interface IUserGroup extends IUserGroupIdentify
         'SLTGS' => 1045,
 
         'JKQSJJ' => 1051,
+        'WARASWJTXCGSYXGS' => 1060,
     );
 }
