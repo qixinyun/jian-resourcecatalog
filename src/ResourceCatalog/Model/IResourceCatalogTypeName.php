@@ -406,6 +406,9 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['LSSWSXX_NEW'] => '律师事务所信息',
         IResourceCatalog::TYPE['LSZYZGZXX_NEW'] => '律师执业资格证信息',
         IResourceCatalog::TYPE['SFJDJGDJXX_NEW'] => '司法鉴定机构登记信息',
+        IResourceCatalog::TYPE['DFXX'] => '电费信息',
+        IResourceCatalog::TYPE['RQFXX'] => '燃气费信息',
+        IResourceCatalog::TYPE['SFXX'] => '水费信息',
         //@position
     );
 }
