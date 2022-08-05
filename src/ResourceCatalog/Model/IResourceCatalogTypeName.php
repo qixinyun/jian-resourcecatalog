@@ -409,6 +409,11 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['DFXX'] => '电费信息',
         IResourceCatalog::TYPE['RQFXX'] => '燃气费信息',
         IResourceCatalog::TYPE['SFXX'] => '水费信息',
+        IResourceCatalog::TYPE['XZCJXX'] => '行政裁决信息',
+        IResourceCatalog::TYPE['XZJDJCXX'] => '行政监督检查信息',
+        IResourceCatalog::TYPE['XZJLXX'] => '行政奖励信息',
+        IResourceCatalog::TYPE['XZQRXX'] => '行政确认信息',
+        IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
         //@position
     );
 }

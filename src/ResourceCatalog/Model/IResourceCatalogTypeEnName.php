@@ -399,6 +399,11 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['DFXX'] => 'dfxx',
         IResourceCatalog::TYPE['RQFXX'] => 'rqfxx',
         IResourceCatalog::TYPE['SFXX'] => 'sfxx',
+        IResourceCatalog::TYPE['XZCJXX'] => 'xzcjxx',
+        IResourceCatalog::TYPE['XZJDJCXX'] => 'xzjdjcxx',
+        IResourceCatalog::TYPE['XZJLXX'] => 'xzjlxx',
+        IResourceCatalog::TYPE['XZQRXX'] => 'xzqrxx',
+        IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
         //@position
     );
 }
