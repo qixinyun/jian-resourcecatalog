@@ -399,11 +399,11 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['DFXX'] => 'dfxx',
         IResourceCatalog::TYPE['RQFXX'] => 'rqfxx',
         IResourceCatalog::TYPE['SFXX'] => 'sfxx',
-        IResourceCatalog::TYPE['XZCJXX'] => 'xzcjxx',
-        IResourceCatalog::TYPE['XZJDJCXX'] => 'xzjdjcxx',
-        IResourceCatalog::TYPE['XZJLXX'] => 'xzjlxx',
-        IResourceCatalog::TYPE['XZQRXX'] => 'xzqrxx',
-        IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
+        IResourceCatalog::TYPE['XZCJ'] => 'xzcj',
+        IResourceCatalog::TYPE['XZJDJC'] => 'xzjdjc',
+        IResourceCatalog::TYPE['XZJL'] => 'xzjl',
+        IResourceCatalog::TYPE['XZQR'] => 'xzqr',
+        IResourceCatalog::TYPE['XZQZ'] => 'xzqz',
         //@position
     );
 }

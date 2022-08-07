@@ -396,11 +396,11 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['DFXX'] => 'DFXX',
         IResourceCatalog::TYPE['RQFXX'] => 'RQFXX',
         IResourceCatalog::TYPE['SFXX'] => 'SFXX',
-        IResourceCatalog::TYPE['XZCJXX'] => 'XZCJXX',
-        IResourceCatalog::TYPE['XZJDJCXX'] => 'XZJDJCXX',
-        IResourceCatalog::TYPE['XZJLXX'] => 'XZJLXX',
-        IResourceCatalog::TYPE['XZQRXX'] => 'XZQRXX',
-        IResourceCatalog::TYPE['XZQZXX'] => 'XZQZXX',
+        IResourceCatalog::TYPE['XZCJ'] => 'XZCJ',
+        IResourceCatalog::TYPE['XZJDJC'] => 'XZJDJC',
+        IResourceCatalog::TYPE['XZJL'] => 'XZJL',
+        IResourceCatalog::TYPE['XZQR'] => 'XZQR',
+        IResourceCatalog::TYPE['XZQZ'] => 'XZQZ',
         //@position
     );
 }

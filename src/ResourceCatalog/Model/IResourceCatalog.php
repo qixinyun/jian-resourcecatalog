@@ -395,11 +395,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'DFXX'=>401,
         'RQFXX'=>402,
         'SFXX'=>403,
-        'XZCJXX'=>404,
-        'XZJDJCXX'=>405,
-        'XZJLXX'=>406,
-        'XZQRXX'=>407,
-        'XZQZXX'=>408,
+        'XZCJ'=>404,
+        'XZJDJC'=>405,
+        'XZJL'=>406,
+        'XZQR'=>407,
+        'XZQZ'=>408,
         //@position_type_409
         'TEST' => 500,
     );
@@ -415,7 +415,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['FRHONGMD'],
             self::TYPE['RYBZXX']
         ),
-        IUserGroup::ID['SFGW'] => array(self::TYPE['XZQZXX'],self::TYPE['XZQRXX'],self::TYPE['XZJLXX'],self::TYPE['XZJDJCXX'],self::TYPE['XZCJXX'],
+        IUserGroup::ID['SFGW'] => array(self::TYPE['XZQZ'],self::TYPE['XZQR'],self::TYPE['XZJL'],self::TYPE['XZJDJC'],self::TYPE['XZCJ'],
             self::TYPE['ZRRYSTQFXX'],
             self::TYPE['ZRRYSJFXX'],
             self::TYPE['ZRRYQTQFXX'],
