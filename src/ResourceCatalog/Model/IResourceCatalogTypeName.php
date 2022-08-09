@@ -414,6 +414,12 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJL'] => '行政奖励信息',
         IResourceCatalog::TYPE['XZQR'] => '行政确认信息',
         IResourceCatalog::TYPE['XZQZ'] => '行政强制信息',
+        IResourceCatalog::TYPE['FZCNSHXX'] => '非正常纳税户信息',
+        IResourceCatalog::TYPE['NSXX_NEW'] => '纳税信息',
+        IResourceCatalog::TYPE['NSXYDJXX'] => '纳税信用等级信息',
+        IResourceCatalog::TYPE['QSXX_NEW'] => '欠税信息',
+        IResourceCatalog::TYPE['QYMXBDCDJQKXX'] => '企业名下不动产登记情况信息',
+        IResourceCatalog::TYPE['QYMXFCDYXX'] => '企业名下房产抵押信息',
         //@position
     );
 }

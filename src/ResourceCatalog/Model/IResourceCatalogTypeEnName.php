@@ -404,6 +404,12 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['XZJL'] => 'xzjl',
         IResourceCatalog::TYPE['XZQR'] => 'xzqr',
         IResourceCatalog::TYPE['XZQZ'] => 'xzqz',
+        IResourceCatalog::TYPE['FZCNSHXX'] => 'fzcnshxx',
+        IResourceCatalog::TYPE['NSXX_NEW'] => 'nsxx_new',
+        IResourceCatalog::TYPE['NSXYDJXX'] => 'nsxydjxx',
+        IResourceCatalog::TYPE['QSXX_NEW'] => 'qsxx_new',
+        IResourceCatalog::TYPE['QYMXBDCDJQKXX'] => 'qymxbdcdjqkxx',
+        IResourceCatalog::TYPE['QYMXFCDYXX'] => 'qymxfcdyxx',
         //@position
     );
 }
