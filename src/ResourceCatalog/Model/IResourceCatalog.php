@@ -1792,6 +1792,17 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['SHTTNJXX'],
             self::TYPE['SHZZBZXX'],
         ),
+        IUserGroup::ID['JGSSMZJ'] => array(
+            self::TYPE['P_GRDBJFF_INFO'],
+            self::TYPE['HQGATGMSYDJXX'],
+            self::TYPE['JZQJQYZGXX'],
+            self::TYPE['MBFQYDWJBXX'],
+            self::TYPE['MBFQYDWNJXX'],
+            self::TYPE['RYXX'],
+            self::TYPE['SHTTJBXX'],
+            self::TYPE['SHTTNJXX'],
+            self::TYPE['SHZZBZXX'],
+        ),
         IUserGroup::ID['QYQMZJ'] => array(
             self::TYPE['P_GRDBJFF_INFO'],
             self::TYPE['HQGATGMSYDJXX'],

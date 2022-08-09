@@ -553,6 +553,14 @@ interface IUserGroupIdentify
         IUserGroup::ID['SLTGS'] => 'SLTGS',
 
         IUserGroup::ID['JKQSJJ'] => 'JKQSJJ',
+        IUserGroup::ID['JGSSZLSYXGS'] => 'JGSSZLSYXGS',
+        IUserGroup::ID['AFXSWJSJTYXGS'] => 'AFXSWJSJTYXGS',
+        IUserGroup::ID['AFXYTTRQYXGS'] => 'AFXYTTRQYXGS',
         IUserGroup::ID['WARASWJTXCGSYXGS'] => 'WARASWJTXCGSYXGS',
+        IUserGroup::ID['SCGJ'] => 'SCGJ',
+        IUserGroup::ID['JGSSMZJ'] => 'JGSSMZJ',
+        IUserGroup::ID['JGSSSJJ'] => 'JGSSSJJ',
+        IUserGroup::ID['JGSSNNCJ'] => 'JGSSNNCJ',
+        IUserGroup::ID['AFXXZFWZX'] => 'AFXXZFWZX',
     );
 }

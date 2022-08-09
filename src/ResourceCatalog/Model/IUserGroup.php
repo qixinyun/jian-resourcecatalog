@@ -552,11 +552,16 @@ interface IUserGroup extends IUserGroupIdentify
         'SDXGS' => 1043,
         'SYDGS' => 1044,
         'SLTGS' => 1045,
+        'SCGJ' => 1046,
 
         'JKQSJJ' => 1051,
-        'JKQZLSYXGS' => 1055,
+        'JGSSMZJ' => 1052,
+        'JGSSSJJ' => 1053,
+        'JGSSNNCJ' => 1054,
+        'JGSSZLSYXGS' => 1055,
         'AFXSWJSJTYXGS' => 1057,
-        'AFXYTTRQYXGS' => 1058,        
+        'AFXYTTRQYXGS' => 1058,
+        'AFXXZFWZX' => 1059,
         'WARASWJTXCGSYXGS' => 1060,
     );
 }
