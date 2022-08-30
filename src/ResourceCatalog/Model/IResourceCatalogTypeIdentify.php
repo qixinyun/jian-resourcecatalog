@@ -407,6 +407,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['QSXX_NEW'] => 'QSXX_NEW',
         IResourceCatalog::TYPE['QYMXBDCDJQKXX'] => 'QYMXBDCDJQKXX',
         IResourceCatalog::TYPE['QYMXFCDYXX'] => 'QYMXFCDYXX',
+        IResourceCatalog::TYPE['KJYFXX'] => 'KJYFXX',
         //@position
     );
 }

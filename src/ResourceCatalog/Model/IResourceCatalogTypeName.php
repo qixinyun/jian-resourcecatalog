@@ -420,6 +420,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QSXX_NEW'] => '欠税信息',
         IResourceCatalog::TYPE['QYMXBDCDJQKXX'] => '企业名下不动产登记情况信息',
         IResourceCatalog::TYPE['QYMXFCDYXX'] => '企业名下房产抵押信息',
+        IResourceCatalog::TYPE['KJYFXX'] => '科技研发信息',
         //@position
     );
 }

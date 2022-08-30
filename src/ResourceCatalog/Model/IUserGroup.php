@@ -563,5 +563,6 @@ interface IUserGroup extends IUserGroupIdentify
         'AFXYTTRQYXGS' => 1058,
         'AFXXZFWZX' => 1059,
         'WARASWJTXCGSYXGS' => 1060,
+        'QYQlYJ' => 951,
     );
 }

@@ -410,6 +410,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QSXX_NEW'] => 'qsxx_new',
         IResourceCatalog::TYPE['QYMXBDCDJQKXX'] => 'qymxbdcdjqkxx',
         IResourceCatalog::TYPE['QYMXFCDYXX'] => 'qymxfcdyxx',
+        IResourceCatalog::TYPE['KJYFXX'] => 'kjyfxx',
         //@position
     );
 }
