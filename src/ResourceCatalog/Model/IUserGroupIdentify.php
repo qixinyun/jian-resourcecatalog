@@ -562,5 +562,14 @@ interface IUserGroupIdentify
         IUserGroup::ID['JGSSSJJ'] => 'JGSSSJJ',
         IUserGroup::ID['JGSSNNCJ'] => 'JGSSNNCJ',
         IUserGroup::ID['AFXXZFWZX'] => 'AFXXZFWZX',
+
+        IUserGroup::ID['AFXFL'] => 'AFXFL',
+        IUserGroup::ID['AFXGSL'] => 'AFXGSL',
+        IUserGroup::ID['AFXTXW'] => 'AFXTXW',
+        IUserGroup::ID['AFXZGH'] => 'AFXZGH',
+        IUserGroup::ID['AFXYDGS'] => 'AFXYDGS',
+        IUserGroup::ID['AFXLTGS'] => 'AFXLTGS',
+        IUserGroup::ID['AFXDXGS'] => 'AFXDXGS',
+        IUserGroup::ID['AFXRMYH'] => 'AFXRMYH',
     );
 }
