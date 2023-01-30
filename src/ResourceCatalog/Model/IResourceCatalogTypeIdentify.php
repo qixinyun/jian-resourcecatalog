@@ -408,6 +408,13 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['QYMXBDCDJQKXX'] => 'QYMXBDCDJQKXX',
         IResourceCatalog::TYPE['QYMXFCDYXX'] => 'QYMXFCDYXX',
         IResourceCatalog::TYPE['KJYFXX'] => 'KJYFXX',
+        IResourceCatalog::TYPE['GRTQGJJMX'] => 'GRTQGJJMX',
+        IResourceCatalog::TYPE['JCGJJDWXX'] => 'JCGJJDWXX',
+        IResourceCatalog::TYPE['JASGRCBXX'] => 'JASGRCBXX',
+        IResourceCatalog::TYPE['JASGRZHXX'] => 'JASGRZHXX',
+        IResourceCatalog::TYPE['JASYBJYBCBJTXX'] => 'JASYBJYBCBJTXX',
+        IResourceCatalog::TYPE['JASYBJYBCBRYXX'] => 'JASYBJYBCBRYXX',
+        IResourceCatalog::TYPE['JASYBJYBKXX'] => 'JASYBJYBKXX',
         //@position
     );
 }

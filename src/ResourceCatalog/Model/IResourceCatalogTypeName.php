@@ -421,6 +421,13 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYMXBDCDJQKXX'] => '企业名下不动产登记情况信息',
         IResourceCatalog::TYPE['QYMXFCDYXX'] => '企业名下房产抵押信息',
         IResourceCatalog::TYPE['KJYFXX'] => '科技研发信息',
+        IResourceCatalog::TYPE['GRTQGJJMX'] => '个人提取公积金明细',
+        IResourceCatalog::TYPE['JCGJJDWXX'] => '缴存公积金单位信息',
+        IResourceCatalog::TYPE['JASGRCBXX'] => '吉安市个人参保信息',
+        IResourceCatalog::TYPE['JASGRZHXX'] => '吉安市个人账户信息',
+        IResourceCatalog::TYPE['JASYBJYBCBJTXX'] => '吉安市医保局医保参保家庭信息',
+        IResourceCatalog::TYPE['JASYBJYBCBRYXX'] => '吉安市医保局医保参保人员信息',
+        IResourceCatalog::TYPE['JASYBJYBKXX'] => '吉安市医保局医保卡信息',
         //@position
     );
 }

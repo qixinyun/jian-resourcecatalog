@@ -407,7 +407,14 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'QYMXBDCDJQKXX'=>413,
         'QYMXFCDYXX'=>414,
         'KJYFXX'=>415,
-        //@position_type_416
+        'GRTQGJJMX'=>416,
+        'JCGJJDWXX'=>417,
+        'JASGRCBXX'=>418,
+        'JASGRZHXX'=>419,
+        'JASYBJYBCBJTXX'=>420,
+        'JASYBJYBCBRYXX'=>421,
+        'JASYBJYBKXX'=>422,
+        //@position_type_423
         'TEST' => 500,
     );
 
@@ -868,6 +875,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['P_JGWMG']
         ),
         IUserGroup::ID['ZFGJJ'] => array(
+            self::TYPE['JCGJJDWXX'],
+            self::TYPE['GRTQGJJMX'],
             self::TYPE['YQWJNGJJDK'],
             self::TYPE['FFTQGJJXX'],
             self::TYPE['P_GJJDKXX'],
@@ -1153,6 +1162,11 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['FRHEIMD']
         ),
         IUserGroup::ID['SYLBZJ'] => array(
+            self::TYPE['JASYBJYBKXX'],
+            self::TYPE['JASYBJYBCBRYXX'],
+            self::TYPE['JASYBJYBCBJTXX'],
+            self::TYPE['JASGRZHXX'],
+            self::TYPE['JASGRCBXX'],
             self::TYPE['DFXBMDXX'],
             self::TYPE['FRHEIMD']
         ),
