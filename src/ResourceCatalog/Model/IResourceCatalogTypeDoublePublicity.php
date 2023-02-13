@@ -415,6 +415,7 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['JASYBJYBCBJTXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['JASYBJYBCBRYXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['JASYBJYBKXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         //@position
     );
 }

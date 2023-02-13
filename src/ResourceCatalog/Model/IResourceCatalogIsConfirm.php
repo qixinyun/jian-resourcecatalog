@@ -416,6 +416,7 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['JASYBJYBCBJTXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['JASYBJYBCBRYXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['JASYBJYBKXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         //@position
     );
 }

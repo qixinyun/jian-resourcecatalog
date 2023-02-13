@@ -414,7 +414,8 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'JASYBJYBCBJTXX'=>420,
         'JASYBJYBCBRYXX'=>421,
         'JASYBJYBKXX'=>422,
-        //@position_type_423
+        'QYFRGGXYZHPJJG'=>423,
+        //@position_type_424
         'TEST' => 500,
     );
 
@@ -435,6 +436,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XZCJ'],
         ),
         IUserGroup::ID['SFGW'] => array(
+            self::TYPE['QYFRGGXYZHPJJG'],
             self::TYPE['ZRRYSTQFXX'],
             self::TYPE['ZRRYSJFXX'],
             self::TYPE['ZRRYQTQFXX'],
