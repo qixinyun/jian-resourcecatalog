@@ -573,5 +573,7 @@ interface IUserGroup extends IUserGroupIdentify
         'AFXLTGS' => 1066,
         'AFXDXGS' => 1067,
         'AFXRMYH' => 1068,
+        'SYZGLJ' => 1084,
+        'SWTZB' => 1085,
     );
 }
