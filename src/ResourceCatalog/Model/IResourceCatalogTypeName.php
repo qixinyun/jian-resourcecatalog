@@ -429,6 +429,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JASYBJYBCBRYXX'] => '吉安市医保局医保参保人员信息',
         IResourceCatalog::TYPE['JASYBJYBKXX'] => '吉安市医保局医保卡信息',
         IResourceCatalog::TYPE['QYFRGGXYZHPJJG'] => '企业法人公共信用综合评价结果',
+        IResourceCatalog::TYPE['GWYXYXX'] => '公务员信用信息',
         //@position
     );
 }

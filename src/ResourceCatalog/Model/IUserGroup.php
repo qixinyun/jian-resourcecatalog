@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IUserGroup extends IUserGroupIdentify
@@ -41,7 +42,6 @@ interface IUserGroup extends IUserGroupIdentify
         'SJTJ' => 34,
         'SGZW' => 35,
         'SGSL' => 36,
-
         'JZQFGW' => 37,
         'QYQFGW' => 38,
         'QAXFGW' => 39,
@@ -58,12 +58,10 @@ interface IUserGroup extends IUserGroupIdentify
         'JKQ' => 50,
         'LLXQFGW' => 51,
         'SFL' => 52,
-
         'SCXBB' => 53,
         'SCXCZJ' => 54,
         'SCXZJJ' => 55,
         'SCXSUIWJ' => 56,
-
         'SCXFY' => 58,
         'SCXRSJ' => 59,
         'SCXSJJ' => 60,
@@ -105,7 +103,6 @@ interface IUserGroup extends IUserGroupIdentify
         'SCXYCJ' => 96,
         'SCXJJDD' => 97,
         'SCXYBJ' => 98,
-
         'JAXSUIWJ' => 100,
         'JAXJJDD' => 101,
         'JAXSJJ' => 102,
@@ -132,7 +129,6 @@ interface IUserGroup extends IUserGroupIdentify
         'JAXFY' => 123,
         'JAXBB' => 124,
         'JAXSLJ' => 125,
-
         'XGXWGXLJ' => 126,
         'XGXSUIWJ' => 127,
         'XGXTJJ' => 128,
@@ -167,11 +163,9 @@ interface IUserGroup extends IUserGroupIdentify
         'XGXHTRQ' => 157,
         'XGXCZJ' => 158,
         'XGXJRB' => 159,
-
         'ZFGJJ' => 980,
         'GDGS' => 981,
         'ZLSGS' => 982,
-
         'YXXBB' => 200,
         'YXXCZJ' => 201,
         'YXXGZB' => 202,
@@ -213,7 +207,6 @@ interface IUserGroup extends IUserGroupIdentify
         'YXXYJJ' => 238,
         'YXXZRGLJ' => 239,
         'YXXZGH' => 240,
-
         'JGSSCZJ' => 300,
         'JGSSRMFY' => 301,
         'JGSSJTJ' => 302,
@@ -227,7 +220,6 @@ interface IUserGroup extends IUserGroupIdentify
         'JGSSZJJ' => 310,
         'JGSSZRZYJ' => 311,
         'JGSSJTJ' => 312,
-
         'AFXZJJ' => 400,
         'AFXLYJ' => 401,
         'AFXSFJ' => 402,
@@ -258,7 +250,6 @@ interface IUserGroup extends IUserGroupIdentify
         'AFXTJJ' => 427,
         'AFXSJJ' => 428,
         'AFXKJJ' => 429,
-
         'WAXSGJDGLJ' => 500,
         'WAXFY' => 501,
         'WAXGAJ' => 502,
@@ -299,7 +290,6 @@ interface IUserGroup extends IUserGroupIdentify
         'WAXYDGS' => 537,
         'WAXLTGS' => 538,
         'WAXYBJ' => 539,
-
         'YFXFL' => 600,
         'YFXTJJ' => 601,
         'YFXSLJ' => 602,
@@ -337,7 +327,6 @@ interface IUserGroup extends IUserGroupIdentify
         'YFXNYNCJ' => 634,
         'YFXLTGS' => 635,
         'YFXRH' => 636,
-
         'JSXYJJ' => 700,
         'JSXCZJ' => 701,
         'JSXDXGS' => 702,
@@ -379,7 +368,6 @@ interface IUserGroup extends IUserGroupIdentify
         'JSXYCJ' => 737,
         'JSXYBJ' => 738,
         'JSXGSGS' => 739,
-
         'JGQYBJ' => 800,
         'JGQXZSPJ' => 801,
         'JGQYJJ' => 802,
@@ -415,7 +403,6 @@ interface IUserGroup extends IUserGroupIdentify
         'JGQCGJ' => 832,
         'JGQSUIWJ' => 833,
         'JGQYCJ' => 834,
-
         'THXRSJ' => 850,
         'THXCZJ' => 851,
         'THXGXJ' => 852,
@@ -457,7 +444,6 @@ interface IUserGroup extends IUserGroupIdentify
         'THXYCJ' => 888,
         'THXHRRQ' => 889,
         'THXJJDD' => 890,
-
         'XJXWTZB' => 900,
         'XJXJTJ' => 901,
         'XJXGXJ' => 902,
@@ -488,7 +474,6 @@ interface IUserGroup extends IUserGroupIdentify
         'XJXJJDD' => 927,
         'XJXXARQ' => 928,
         'XJXGDGS' => 929,
-
         'QYQZJJ' => 950,
         'QYQSFJ' => 952,
         'QYQSJJ' => 953,
@@ -515,14 +500,12 @@ interface IUserGroup extends IUserGroupIdentify
         'QYQKJJ' => 974,
         'QYQTJJ' => 975,
         'QYQTQW' => 976,
-
         'SXFZD' => 983,
         'JAXXFDD' => 984,
         'YFXKJJ' => 985,
         'YFXSJJ' => 986,
         'GJSWJZJYFXSWJ' => 987,
         'YFXJJDD' => 988,
-
         'JKQXZGLJ' => 1000,
         'JKQYJGlJ' => 1001,
         'JKQXF' => 1002,
@@ -553,7 +536,6 @@ interface IUserGroup extends IUserGroupIdentify
         'SYDGS' => 1044,
         'SLTGS' => 1045,
         'SCGJ' => 1046,
-
         'JKQSJJ' => 1051,
         'JGSSMZJ' => 1052,
         'JGSSSJJ' => 1053,
@@ -564,7 +546,6 @@ interface IUserGroup extends IUserGroupIdentify
         'AFXXZFWZX' => 1059,
         'WARASWJTXCGSYXGS' => 1060,
         'QYQlYJ' => 951,
-
         'AFXFL' => 1061,
         'AFXGSL' => 1062,
         'AFXTXW' => 1063,
