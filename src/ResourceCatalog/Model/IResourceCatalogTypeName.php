@@ -62,7 +62,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['JCFLFWGZZJBXX'] => '基层法律服务工作者基本信息',
         IResourceCatalog::TYPE['LSSWSXX'] => '律师事务所信息',
         IResourceCatalog::TYPE['LSZYZGZXX'] => '律师执业资格证信息',
-        IResourceCatalog::TYPE['GZRYXX'] => '公职人员信息',
+        // IResourceCatalog::TYPE['GZRYXX'] => '公职人员信息',
         IResourceCatalog::TYPE['YSZYZCHBGZC'] => '医师执业注册和变更注册',
         IResourceCatalog::TYPE['YSZYZGZXX'] => '医师执业资格证信息',
         IResourceCatalog::TYPE['WSHJHSYWYHJCXX'] => '卫生和计划生育委员会基础信息',
